@@ -14,6 +14,7 @@ def get_avg_score():
         print(f"{uname} {avg}", file=outfile)
 
     score_file.close()
+    outfile.close()
 
 
 get_avg_score()
