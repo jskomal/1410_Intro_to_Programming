@@ -1,0 +1,5 @@
+johnd 21.75
+janet 15.75
+saran 23.25
+frank 24.5
+marys 10.0
