@@ -1,3 +1,6 @@
+# Jordan Skomal | 6/27/23
+
+
 def get_avg_score():
     score_file = open("score.txt", "r")
     outfile_name = input("Please enter a name for the output file: ")
